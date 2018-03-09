@@ -20,11 +20,6 @@ import { Underline, ResetCSS, PlaygroundContainer } from "../custom/components";
 
 import theme from "../custom/theme";
 
-const images = {
-  comptree: require("../assets/comptree.svg"),
-  compExample: require("../assets/component-example.png")
-};
-
 const snippets = {
   sfc1: require("../assets/simple-function-call1"),
   sfc2: require("../assets/simple-function-call2"),
@@ -36,8 +31,6 @@ const snippets = {
   nb: require("../assets/new-binding"),
   af: require("../assets/arrow-functions"),
 };
-
-preloader(images);
 
 class Presentation extends React.Component {
   render() {
