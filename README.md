@@ -1,5 +1,7 @@
 # JS This Keyword Presentation
 
+A quick guide for the "this" keyword in JavaScript. Created using [Spectacle](https://github.com/FormidableLabs/spectacle).
+
 ## Usage
 
 To run the app locally first install any dependencies:
