@@ -244,7 +244,7 @@ class Presentation extends React.Component {
           <span style={{ fontSize: "22pt" }}>
             With <S type="underline">arrow functions</S>, <S type="bold">this</S> keeps the same value as its parent scope.
             <br /> <br />
-            For example, here <S type="bold">this</S> in the arrow function keeps the same value as this in its enclosing <S type="bold">Ghost</S> function:
+            For example, here <S type="bold">this</S> in the arrow function keeps the same value as <S type="bold">this</S> in its enclosing <S type="bold">Ghost</S> function:
           </span>
           <ResetCSS>
             <PlaygroundContainer codeHeight="330px" previewHeight="0">
