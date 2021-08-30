@@ -5,7 +5,7 @@ import React from "react";
 import Playground from "component-playground";
 
 // Import image preloader util
-import preloader from "spectacle/lib/utils/preloader";
+// import preloader from "spectacle/lib/utils/preloader";
 
 // Import Bootstrap (for the playground demo)
 import "bootstrap/dist/css/bootstrap.min.css";
